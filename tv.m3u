@@ -495,70 +495,8 @@ http://tv14s.xyz:8080/15564292/15564292/215555
 http://tv14s.xyz:8080/15564292/15564292/215698
 #EXTINF:0 tvg-logo="" group-title="Varios",248-FinRoku
 https://FinRoku
-#EXTM3U
 
-# **********************************
-# 📺 Canales de TV y Radios Online
-# 🔥 Recopilado por: iLLuminati Dev Team
-# 🌐 Contacto: https://t.me/iPTV_Free_List
-# 🎥 Playlist: https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
-# 📲 Compatible con: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-# **********************************
 
-# *****************************
-# 
-# 📖 ÍNDICE
-#   
-# - Lo Más Visto
-# - PlutoTV
-# - Chileiptv
-# - M3U Chile
-# - Lao TV
-# - Canales Chilenos
-# - Canales Chilenos Regionales
-# - Diarios Chilenos
-# - Canales de Animación
-# - Canales Juveniles
-# - Canales de Cultura
-# - Canales Latinos
-# - Canales de Cine
-# - Canales de Noticias
-# - Canales de Deportes
-# - Canales Argentinos
-# - Canales Brasileños
-# - Canales Bolivianos
-# - Canales Colombianos
-# - Canales Costarricenses
-# - Canales Dominicanos
-# - Canales Ecuatorianos
-# - Canales Españoles
-# - Canales Guatemaltecos
-# - Canales Haitianos
-# - Canales Hondureños
-# - Canales Mexicanos
-# - Canales Panameños
-# - Canales Paraguayos
-# - Canales Peruanos
-# - Canales Puertorriqueños
-# - Canales Salvadoreños
-# - Canales Uruguayos
-# - Canales Venezolanos
-# - Canales Australianos
-# - Canales Ingleses
-# - Canales Italianos
-# - Canales Japoneses
-# - Canales Koreanos
-# - Canales Misceláneos
-# - Radios Chilenas
-# - Radios Chilenas con Video
-# - Radios Internacionales
-# - Radios Online
-# - Canales de Música
-# - Música
-#   
-# *****************************
-
-# **********************************
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/images.jpg" group-title="Leeme", Actualizado 14/11/2024
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
@@ -5910,8 +5848,4 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 
 #EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/devimage/192252966941/medium/50/1451524293aee8812216987442bac20f000e297739.jpg" group-title="Musica", Carlos Vives
 
-# **********************************
-# 💡 Notas:
-# - Actualizamos regularmente esta lista, aunque la disponibilidad de algunos canales puede variar.
-# - Puedes organizar y personalizar cada categoría según las secciones de este índice.
-# **********************************
+#EXTM3U
